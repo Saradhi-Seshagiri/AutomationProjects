@@ -20,8 +20,6 @@ import com.udemy.services.GenericServices;
 
 public class UdemyAutomation {
 	
-	//Added new comment on 24th Dec 2022 ! 10:07 AM IST.
-
 	//Member variables..
 	private WebDriver newBrowser;
 	private String applicationURL = "https://www.udemy.com/";
