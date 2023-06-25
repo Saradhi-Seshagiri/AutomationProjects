@@ -62,7 +62,7 @@ public class UdemyAutomation {
 			// TODO: handle exception
 			System.out.println("IllegalArgumentException...");
 		}
-		finally {
+		finally { //Finally block will be excuted always...
 		newBrowser.quit(); }//Closing all the instances..
 		
 		return "Success!!";
